@@ -1,0 +1,709 @@
+[21:38:07] [main/INFO]: ModLauncher running: args [--username, Pawcio_, --version, forge-47.2.0, --gameDir, E:\CurseForge\Instances\Moja paka, --assetsDir, E:\CurseForge\Install\assets, --assetIndex, 5, --uuid, 42b1c34496574b699aff0b9ac10e9ee1, --accessToken, ????????, --clientId, NTcxNGIxOTYtOTlmMy00ZDM0LWJjMzktNmEzYTk2MDkxODhk, --xuid, 2535458490431429, --userType, msa, --versionType, release, --width, 1920, --height, 1080, --quickPlayPath, E:\CurseForge\Install\quickPlay\java\1709325485360.json, --launchTarget, forgeclient, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[21:38:07] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[21:38:08] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[21:38:08] [main/INFO]: Trying GL version 4.6
+[21:38:08] [main/INFO]: Requested GL version 4.6 got version 4.6
+[21:38:08] [main/INFO]: Mixin Transmogrifier is definitely up to no good...
+[21:38:08] [main/INFO]: crimes against java were committed
+[21:38:08] [main/INFO]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[21:38:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/E:/CurseForge/Instances/Moja%20paka/mods/Connector-1.0.0-beta.37+1.20.1.jar%23175%23178!/ Service=ModLauncher Env=CLIENT
+[21:38:08] [main/INFO]: Found mod file Connector-1.0.0-beta.37+1.20.1-mod.jar of type MOD with provider dev.su5ed.sinytra.connector.locator.ConnectorEarlyLocator@543e593
+[21:38:08] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2 GL version 4.6.0 NVIDIA 546.01, NVIDIA Corporation
+[21:38:08] [main/INFO]: Found mod file aether-1.20.1-1.2.0-neoforge.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file collective-1.20.1-7.36.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file elevatorid-1.20.1-lex-1.9.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file fabric-api-0.92.0+1.11.3+1.20.1.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file ferritecore-6.0.1-forge.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file inventorysorter-1.20.1-23.0.1.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file jei-1.20.1-forge-15.3.0.4.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file JRFTL-1.20.1-1.6.0.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file modernfix-forge-5.13.0+mc1.20.1.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20-2.25.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file reds-more-structures-1.0.8-common.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file so_many_enchants-1.20-1.8.0-forge.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file svmm-1.20.1-1.2.4.0.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file treeharvester-1.20.1-8.7.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file twilightforest-1.20.1-4.3.2145-universal.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file u_team_core-forge-1.20.1-5.1.4.269.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file useful_backpacks-forge-1.20.1-2.0.1.122.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:08] [main/INFO]: Found mod file xptome-1.20.1-2.2.jar of type MOD with provider {mods folder locator at E:\CurseForge\Instances\Moja paka\mods}
+[21:38:09] [main/WARN]: Mod file E:\CurseForge\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.0\fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[21:38:09] [main/WARN]: Mod file E:\CurseForge\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.0\javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[21:38:09] [main/WARN]: Mod file E:\CurseForge\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.0\lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[21:38:09] [main/WARN]: Mod file E:\CurseForge\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.0\mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[21:38:09] [main/INFO]: Found mod file fmlcore-1.20.1-47.2.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3b08f438
+[21:38:09] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3b08f438
+[21:38:09] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3b08f438
+[21:38:09] [main/INFO]: Found mod file mclanguage-1.20.1-47.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3b08f438
+[21:38:09] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3b08f438
+[21:38:09] [main/INFO]: Found mod file forge-1.20.1-47.2.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3b08f438
+[21:38:09] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[21:38:09] [main/INFO]: Found 49 dependencies adding them to mods collection
+[21:38:09] [main/INFO]: Found mod file fabric-transfer-api-v1-3.3.4+b00938ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-dimensions-v1-2.1.54+8005d10d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-game-rule-api-v1-1.0.40+683d4da877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-api-base-0.4.31+ef105b4977.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-renderer-api-v1-3.2.1+1d29b44577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-api-lookup-api-v1-1.6.36+67f9824077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-blockrenderlayer-v1-1.1.41+1d0da21e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-item-api-v1-2.1.28+2272fc7f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-model-loading-api-v1-1.0.3+6274ab9d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-block-api-v1-1.0.11+0e6cb7f777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-rendering-fluids-v1-3.0.28+4ac5e37a77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-screen-handler-api-v1-1.3.30+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-models-v0-0.4.2+7c3892a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-resource-loader-v0-0.11.10+cefbb70477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file curios-forge-5.3.5+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-rendering-v1-3.0.8+1c0ea72177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-renderer-indigo-1.5.1+67f9824077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-item-group-api-v1-4.0.12+c9161c2d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-convention-tags-v1-1.5.5+fa3d1c0177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-mining-level-api-v1-2.1.50+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-command-api-v1-1.2.34+f71b366f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-block-view-api-v2-1.0.1+0767707077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-command-api-v2-2.2.13+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-data-attachment-api-v1-1.0.0+30ef839e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file mixinextras-forge-0.3.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-biome-api-v1-13.0.13+dd0389a577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-entity-events-v1-1.6.0+6274ab9d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-registry-sync-v0-2.3.3+1c0ea72177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file cumulus_menus-1.20.1-1.0.0-neoforge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-recipe-api-v1-1.0.21+514a076577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-loot-api-v2-1.2.1+eb28f93e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-object-builder-api-v1-11.1.3+2174fc8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-screen-api-v1-2.0.8+45a670a577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-rendering-data-attachment-v1-0.3.37+a6081afc77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file nitrogen_internals-1.20.1-1.0.2-neoforge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-networking-api-v1-1.3.11+503a202477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-particles-v1-1.1.2+78e1ecb877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-sound-api-v1-1.0.13+4f23bd8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file MixinExtras-0.3.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-message-api-v1-5.1.9+52cc178c77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-content-registries-v0-4.0.11+a670df1e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-transitive-access-wideners-v1-4.3.1+1880499877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-lifecycle-events-v1-2.2.22+afab492177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file Connector-1.0.0-beta.37+1.20.1-fabricloader.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-data-generation-api-v1-12.3.4+369cb3a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-events-interaction-v0-0.6.2+0d0bd5a777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-key-binding-api-v1-1.0.37+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Found mod file fabric-client-tags-api-v1-1.1.2+5d6761b877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@70c0a3d5
+[21:38:09] [main/INFO]: Dependency resolution found 0 candidates to load
+[21:38:11] [main/INFO]: Successfully made module authlib transformable
+[21:38:11] [main/INFO]: Compatibility level set to JAVA_17
+[21:38:12] [main/WARN]: Outdated connector_global_mod_aliases.json configuration file detected. Please migrate to the new connector.json configuration.
+[21:38:12] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.2.0, --gameDir, E:\CurseForge\Instances\Moja paka, --assetsDir, E:\CurseForge\Install\assets, --uuid, 42b1c34496574b699aff0b9ac10e9ee1, --username, Pawcio_, --assetIndex, 5, --accessToken, ????????, --clientId, NTcxNGIxOTYtOTlmMy00ZDM0LWJjMzktNmEzYTk2MDkxODhk, --xuid, 2535458490431429, --userType, msa, --versionType, release, --width, 1920, --height, 1080, --quickPlayPath, E:\CurseForge\Install\quickPlay\java\1709325485360.json]
+[21:38:12] [main/INFO]: Loaded configuration file for ModernFix 5.13.0+mc1.20.1: 74 options available, 0 override(s) found
+[21:38:12] [main/INFO]: Applying Nashorn fix
+[21:38:12] [main/INFO]: Applied Forge config corruption patch
+[21:38:12] [main/WARN]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:38:13] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[21:38:14] [pool-4-thread-1/INFO]: ModernFix reached bootstrap stage (8.886 s after launch)
+[21:38:15] [pool-4-thread-1/INFO]: Vanilla bootstrap took 1285 milliseconds
+[21:38:18] [Render thread/WARN]: Assets URL 'union:/E:/CurseForge/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23198!/assets/.mcassetsroot' uses unexpected schema
+[21:38:18] [Render thread/WARN]: Assets URL 'union:/E:/CurseForge/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23198!/data/.mcassetsroot' uses unexpected schema
+[21:38:18] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:38:19] [Render thread/INFO]: Setting user: Pawcio_
+[21:38:19] [Render thread/INFO]: Bypassed Mojang DFU
+[21:38:19] [Render thread/INFO]: Added resource packs: [vanilla, mod_resources, file/best additional mc 1.19.2-4.zip, file/Lower shield.zip, fabric]
+[21:38:19] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[21:38:19] [modloading-worker-0/INFO]: [Indigo] Registering Indigo renderer!
+[21:38:19] [modloading-worker-0/INFO]: Mod uteamcore is signed with a valid certificate.
+[21:38:19] [modloading-worker-0/INFO]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[21:38:19] [modloading-worker-0/INFO]: MinecraftForge v47.2.0 Initialized
+[21:38:19] [modloading-worker-0/INFO]: Mod usefulbackpacks is signed with a valid certificate.
+[21:38:20] [modloading-worker-0/INFO]: Sending ConfigManager...
+[21:38:20] [modloading-worker-0/INFO]: Sending ConfigManager took 1.870 ms
+[21:38:20] [modloading-worker-0/INFO]: Loading Collective version 7.36.
+[21:38:21] [Render thread/INFO]: Capturing existing worldgen registries
+[21:38:21] [Render thread/INFO]: Found 0 injected RegistryDataLoader worldgen registries
+[21:38:22] [Render thread/INFO]: Replacing search trees with 'JEI' provider
+[21:38:23] [Finalizer/WARN]: One or more BufferBuilders have been leaked, ModernFix will attempt to correct this.
+[21:38:23] [Render thread/INFO]: Invalidating pack caches
+[21:38:23] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources, file/best additional mc 1.19.2-4.zip, file/Lower shield.zip, fabric
+[21:38:23] [Thread-1/INFO]: Please use /mfrc to reload any changed mod config files
+[21:38:23] [Worker-ResourceReload-3/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[21:38:24] [Forge Version Check/INFO]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[21:38:24] [Worker-ResourceReload-0/INFO]: PREINIT IS FUNCTIONING
+[21:38:25] [Forge Version Check/INFO]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.2.0-neoforge Target: null
+[21:38:25] [Forge Version Check/INFO]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[21:38:25] [Worker-ResourceReload-3/WARN]: Unable to load model: 'jrftl:prepared_flesh' referenced from: jrftl:prepared_flesh: java.io.FileNotFoundException: jrftl:models/prepared_flesh.json
+[21:38:25] [Forge Version Check/INFO]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.269 Target: null
+[21:38:25] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21:38:25] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 47.2.0 Target: null
+[21:38:25] [Forge Version Check/INFO]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[21:38:26] [Forge Version Check/INFO]: [twilightforest] Found status: AHEAD Current: 4.3.2145 Target: null
+[21:38:26] [Forge Version Check/INFO]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[21:38:26] [Forge Version Check/INFO]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.122 Target: null
+[21:38:26] [Forge Version Check/INFO]: [mr_reds_morestructures] Starting version check at https://api.modrinth.com/updates/DKJltXeY/forge_updates.json
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_light_blue_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_light_blue
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_lime_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_lime
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_black_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_black
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_hopper#enabled=false,facing=east:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_inside
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_outside
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_top
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_gray_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_gray
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_white_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_white
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_magenta_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_magenta
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_pink_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_pink
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_hopper#enabled=true,facing=north:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_inside
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_outside
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_top
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_hopper#enabled=false,facing=west:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_inside
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_outside
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_top
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_purple_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_purple
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_yellow_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_yellow
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_blue_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_blue
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_hopper#enabled=false,facing=south:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_inside
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_outside
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_top
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_green_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_green
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_orange_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_orange
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_hopper#enabled=true,facing=down:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_inside
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_outside
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/enchanted_hopper_top
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_cyan_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_cyan
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_light_gray_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_light_gray
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_red_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_red
+[21:38:26] [Worker-ResourceReload-3/WARN]: Missing textures in model so_many_enchants:enchanted_brown_shulker_box#inventory:
+    minecraft:textures/atlas/blocks.png:so_many_enchants:blocks/shulkers/shulker_brown
+[21:38:26] [Forge Version Check/INFO]: [mr_reds_morestructures] Found status: OUTDATED Current: 1.0.8 Target: 1.0.8R+mod
+[21:38:26] [Forge Version Check/INFO]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[21:38:26] [Forge Version Check/INFO]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.0-neoforge Target: null
+[21:38:26] [Render thread/INFO]: Added resource packs: [vanilla, mod_resources, file/best additional mc 1.19.2-4.zip, file/Lower shield.zip, fabric]
+[21:38:26] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[21:38:26] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[21:38:26] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on SAMSUNG (NVIDIA High Definition Audio)
+[21:38:26] [Render thread/INFO]: Sound engine started
+[21:38:26] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[21:38:26] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/signs.png-atlas
+[21:38:26] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:38:26] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:38:26] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[21:38:26] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/chest.png-atlas
+[21:38:26] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:38:26] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:38:26] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:38:27] [Render thread/WARN]: Shader particle could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader particle could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader particle could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader position_tex_color_normal could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader position_tex_color_normal could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader position_tex_color_normal could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_solid could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_solid could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_solid could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_cutout_mipped could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_cutout_mipped could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_cutout_mipped could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_cutout could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_cutout could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_cutout could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_translucent could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_translucent could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_translucent could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_armor_cutout_no_cull could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_armor_cutout_no_cull could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_armor_cutout_no_cull could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_solid could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_solid could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_solid could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_solid could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout_no_cull could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout_no_cull could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout_no_cull could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout_no_cull could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout_no_cull_z_offset could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout_no_cull_z_offset could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout_no_cull_z_offset could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_cutout_no_cull_z_offset could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_item_entity_translucent_cull could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_item_entity_translucent_cull could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_item_entity_translucent_cull could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_item_entity_translucent_cull could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_translucent_cull could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_translucent_cull could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_translucent_cull could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_translucent_cull could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_translucent could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_translucent could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_translucent could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_translucent could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_smooth_cutout could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_smooth_cutout could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_smooth_cutout could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_smooth_cutout could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_beacon_beam could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_beacon_beam could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_beacon_beam could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_decal could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_decal could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_decal could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_decal could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_no_outline could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_no_outline could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_no_outline could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_no_outline could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_shadow could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_shadow could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_shadow could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_shadow could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_eyes could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_eyes could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_eyes could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_energy_swirl could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_energy_swirl could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_leash could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_leash could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_leash could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_leash could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_armor_glint could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_armor_glint could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_armor_entity_glint could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_armor_entity_glint could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_glint_translucent could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_glint_translucent could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_glint_translucent could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_glint could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_glint could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_glint could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_glint_direct could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_glint_direct could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_glint_direct could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_glint could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_glint could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_glint could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_glint_direct could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_glint_direct could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_entity_glint_direct could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_text could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_text could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_text could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_text_background could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_text_background could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_text_background could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_text_background could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_text_intensity could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_text_intensity could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_text_intensity could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_lightning could not find uniform named IViewRotMat in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_lightning could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_lightning could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_tripwire could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_tripwire could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_tripwire could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_lines could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_lines could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader rendertype_lines could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader forge:rendertype_entity_unlit_translucent could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader forge:rendertype_entity_unlit_translucent could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader forge:rendertype_entity_unlit_translucent could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader twilightforest:red_thread/red_thread could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader twilightforest:red_thread/red_thread could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader twilightforest:red_thread/red_thread could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader twilightforest:aurora/aurora could not find uniform named FogStart in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader twilightforest:aurora/aurora could not find uniform named FogEnd in the specified shader program.
+[21:38:27] [Render thread/WARN]: Shader twilightforest:aurora/aurora could not find uniform named FogColor in the specified shader program.
+[21:38:27] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:38:27] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:38:27] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:38:27] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[21:38:27] [Render thread/INFO]: Created: 256x128x0 twilightforest:textures/atlas/magic_paintings.png-atlas
+[21:38:29] [Render thread/WARN]: Game took 23.9 seconds to start
+[21:38:31] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[21:38:33] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[21:38:33] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[21:38:33] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[21:38:33] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[21:38:33] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[21:38:33] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[21:38:33] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[21:38:33] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[21:38:33] [Render thread/INFO]: Loaded 20 recipes
+[21:38:33] [Render thread/INFO]: Loaded 1936 advancements
+[21:38:33] [Render thread/INFO]: Loaded 9 Stalactite configs!
+[21:38:33] [Render thread/INFO]: Loaded 16 curio slots
+[21:38:33] [Render thread/INFO]: Loaded 9 curio entities
+[21:38:33] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[21:38:33] [Server thread/INFO]: Generating keypair
+[21:38:33] [Server thread/WARN]: Configuration file E:\CurseForge\Instances\Moja paka\saves\Surivaro\serverconfig\svmm-config.toml is not correct. Correcting
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.mod_disabled was corrected from null to its default, false. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.mod_disabled_default was corrected from null to its default, false. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.default_restricted was corrected from null to its default, false. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.maximum_blocks_to_break was corrected from null to its default, 100. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.block_white_list was corrected from null to its default, [#forge:ores]. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.block_black_list was corrected from null to its default, [minecraft:ancient_debris]. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.stop_when_about_to_break_tool was corrected from null to its default, true. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.teleport_items_to_player was corrected from null to its default, true. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.runtime_config_edit was corrected from null to its default, true. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Giant vein mining configuration was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Giant vein mining configuration.giant_vein_mining_disabled was corrected from null to its default, false. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Giant vein mining configuration.giant_vein_mining_default_disabled was corrected from null to its default, false. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Giant vein mining configuration.giant_vein_mining_default_restricted was corrected from null to its default, false. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Giant vein mining configuration.giant_vein_starter_ore was corrected from null to its default, [minecraft:copper_ore, minecraft:iron_ore, minecraft:deepslate_copper_ore, minecraft:deepslate_iron_ore, minecraft:raw_copper_block, minecraft:raw_iron_block]. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Giant vein mining configuration.giant_vein_whitelist was corrected from null to its default, [minecraft:copper_ore, minecraft:iron_ore, minecraft:deepslate_copper_ore, minecraft:deepslate_iron_ore, minecraft:raw_copper_block, minecraft:raw_iron_block, minecraft:tuff]. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Giant vein mining configuration.giant_vein_blacklist was corrected from null to its default, []. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Tunneling configuration was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Tunneling configuration.tunneling_disabled was corrected from null to its default, false. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Tunneling configuration.tunneling_default_restricted was corrected from null to its default, false. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Tunneling configuration.tunneling_logging was corrected from null to its default, true. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Tunneling configuration.tunneling_max_dimensions was corrected from null to its default, 5. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Tunneling configuration.tunneling_max_depth was corrected from null to its default, 50. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Tunneling configuration.tunneling_max_blocks was corrected from null to its default, 100. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Tunneling configuration.tunneling_same_type was corrected from null to its default, false. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Tunneling configuration.tunneling_whitelist was corrected from null to its default, [minecraft:stone, minecraft:deepslate, minecraft:tuff, minecraft:andesite, minecraft:granite, minecraft:diorite, minecraft:calcite, minecraft:dirt, minecraft:sand, minecraft:red_sand, minecraft:gravel, minecraft:sandstone, minecraft:red_sandstone, minecraft:grass, minecraft:dripstone_block, minecraft:podzol, minecraft:mud, minecraft:crimson_nylium, minecraft:warped_nylium, minecraft:amethyst_block, minecraft:obsidian, minecraft:ice, minecraft:packed_ice, minecraft:blue_ice, minecraft:snow_block, minecraft:clay, minecraft:netherrack, minecraft:soul_sand, minecraft:soul_soil, minecraft:basalt, minecraft:blackstone, minecraft:glowstone, minecraft:end_stone, minecraft:terracotta, minecraft:white_terracotta, minecraft:orange_terracotta, minecraft:magenta_terracotta, minecraft:light_blue_terracotta, minecraft:yellow_terracotta, minecraft:lime_terracotta, minecraft:pink_terracotta, minecraft:gray_terracotta, minecraft:light_gray_terracotta, minecraft:cyan_terracotta, minecraft:purple_terracotta, minecraft:blue_terracotta, minecraft:brown_terracotta, minecraft:green_terracotta, minecraft:red_terracotta, minecraft:black_terracotta]. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration.Tunneling configuration.tunneling_blacklist was corrected from null to its default, [minecraft:obsidian]. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration./svmm force configuration was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration./svmm force configuration.force_disabled was corrected from null to its default, false. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration./svmm force configuration.force_default_restricted was corrected from null to its default, true. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration./svmm force configuration.force_logging was corrected from null to its default, true. 
+[21:38:33] [Server thread/WARN]: Incorrect key Server-side Vein Miner configuration./svmm force configuration.force_blacklist was corrected from null to its default, [minecraft:bedrock, minecraft:reinforced_deepslate, minecraft:chest, minecraft:trapped_chest, minecraft:barrel]. 
+[21:38:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:38:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:38:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:38:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:38:35] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[21:38:35] [Server thread/INFO]: Server-side Vein Mining successfully started
+[21:38:35] [Render thread/INFO]: Time elapsed: 1301 ms
+[21:38:35] [Server thread/INFO]: Changing simulation distance to 8, from 0
+[21:38:35] [Render thread/WARN]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[21:38:36] [Netty Local Client IO #0/INFO]: Connected to a modded server.
+[21:38:36] [Server thread/INFO]: Pawcio_[local:E:b5bd6289] logged in with entity id 49 at (2034.9793541878062, 127.43059803964823, -2030.198498115817)
+[21:38:36] [Server thread/INFO]: Pawcio_ joined the game
+[21:38:37] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[21:38:37] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[21:38:37] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[21:38:37] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[21:38:37] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[21:38:37] [Render thread/INFO]: Starting JEI...
+[21:38:37] [Render thread/INFO]: Registering item subtypes...
+[21:38:37] [Render thread/INFO]: Registering item subtypes took 2.276 ms
+[21:38:37] [Render thread/INFO]: Registering fluid subtypes...
+[21:38:37] [Render thread/INFO]: Registering fluid subtypes took 1.294 ms
+[21:38:37] [Render thread/INFO]: Registering ingredients...
+[21:38:37] [Render thread/INFO]: Registering ingredients: jei:minecraft took 78.24 milliseconds
+[21:38:37] [Render thread/INFO]: Registering ingredients took 82.21 ms
+[21:38:37] [Render thread/INFO]: Registering categories...
+[21:38:37] [Render thread/INFO]: Registering categories: jei:minecraft took 17.16 milliseconds
+[21:38:37] [Render thread/INFO]: Registering categories: aether:jei took 11.29 milliseconds
+[21:38:37] [Render thread/INFO]: Registering categories took 32.62 ms
+[21:38:37] [Render thread/INFO]: Registering vanilla category extensions...
+[21:38:37] [Render thread/INFO]: Registering vanilla category extensions took 3.135 ms
+[21:38:37] [Render thread/INFO]: Registering recipe catalysts...
+[21:38:37] [Render thread/INFO]: Registering recipe catalysts took 828.7 ?s
+[21:38:37] [Render thread/INFO]: Registering advanced plugins...
+[21:38:37] [Render thread/INFO]: Registering advanced plugins took 241.2 ?s
+[21:38:37] [Render thread/INFO]: Building recipe registry...
+[21:38:37] [Render thread/INFO]: Building recipe registry took 12.26 ms
+[21:38:37] [Render thread/INFO]: Registering recipes...
+[21:38:37] [Render thread/INFO]: Registering recipes: jei:minecraft took 345.1 milliseconds
+[21:38:37] [Render thread/INFO]: Registering recipes: aether:jei took 12.74 milliseconds
+[21:38:37] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[21:38:37] [Render thread/INFO]: Registering recipes: uteamcore:jei took 46.96 milliseconds
+[21:38:38] [Render thread/INFO]: Registering recipes: twilightforest:jei_plugin took 45.82 milliseconds
+[21:38:38] [Render thread/INFO]: Registering recipes took 452.7 ms
+[21:38:38] [Render thread/INFO]: Registering recipes transfer handlers...
+[21:38:38] [Render thread/INFO]: Registering recipes transfer handlers took 3.173 ms
+[21:38:38] [Render thread/INFO]: Building runtime...
+[21:38:38] [Render thread/INFO]: Registering gui handlers...
+[21:38:38] [Render thread/INFO]: Registering gui handlers took 8.279 ms
+[21:38:38] [Render thread/INFO]: Registering Runtime...
+[21:38:38] [Render thread/INFO]: Starting JEI GUI
+[21:38:38] [Render thread/INFO]: Building ingredient list...
+[21:38:38] [Render thread/INFO]: Building ingredient list took 3.590 ms
+[21:38:38] [Render thread/INFO]: Building ingredient filter...
+[21:38:38] [Render thread/INFO]: Adding 2506 ingredients
+[21:38:38] [Render thread/INFO]: Added 2506 ingredients
+[21:38:38] [Render thread/INFO]: Building ingredient filter took 417.2 ms
+[21:38:38] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 524.1 milliseconds
+[21:38:38] [Render thread/INFO]: Registering Runtime took 524.6 ms
+[21:38:38] [Render thread/INFO]: Building runtime took 539.1 ms
+[21:38:38] [Render thread/INFO]: Sending Runtime...
+[21:38:38] [Render thread/INFO]: Sending Runtime took 226.8 ?s
+[21:38:38] [Render thread/INFO]: Starting JEI took 1.171 s
+[21:38:38] [Render thread/INFO]: Loaded 645 advancements
+[21:38:39] [Render thread/WARN]: Time from main menu to in-game was 5.5338025 seconds
+[21:38:39] [Render thread/WARN]: Total time to load game and open world was 29.433802 seconds
+[21:38:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[21:39:28] [Server thread/INFO]: Saving and pausing game...
+[21:39:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:overworld
+[21:39:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_nether
+[21:39:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/aether:the_aether
+[21:39:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_end
+[21:39:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/twilightforest:twilight_forest
+[21:41:31] [Server thread/INFO]: Saving and pausing game...
+[21:41:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:overworld
+[21:41:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_nether
+[21:41:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/aether:the_aether
+[21:41:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_end
+[21:41:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/twilightforest:twilight_forest
+[21:41:32] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[21:41:32] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[21:41:32] [Render thread/INFO]: Stopping JEI
+[21:41:32] [Render thread/INFO]: Sending Runtime Unavailable...
+[21:41:32] [Render thread/INFO]: Stopping JEI GUI
+[21:41:32] [Render thread/INFO]: Sending Runtime Unavailable took 3.610 ms
+[21:41:32] [Server thread/INFO]: Pawcio_ lost connection: Disconnected
+[21:41:32] [Server thread/INFO]: Pawcio_ left the game
+[21:41:32] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:41:32] [Server thread/INFO]: Stopping server
+[21:41:32] [Server thread/INFO]: Saving players
+[21:41:32] [Server thread/INFO]: Saving worlds
+[21:41:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:overworld
+[21:41:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_nether
+[21:41:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/aether:the_aether
+[21:41:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_end
+[21:41:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/twilightforest:twilight_forest
+[21:41:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (Surivaro): All chunks are saved
+[21:41:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:41:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[21:41:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:41:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21:41:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:41:34] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[21:41:34] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[21:41:34] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[21:41:34] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[21:41:34] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[21:41:34] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[21:41:34] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[21:41:34] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[21:41:34] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[21:41:34] [Render thread/INFO]: Loaded 20 recipes
+[21:41:34] [Render thread/INFO]: Loaded 1936 advancements
+[21:41:34] [Render thread/INFO]: Loaded 9 Stalactite configs!
+[21:41:34] [Render thread/INFO]: Loaded 16 curio slots
+[21:41:34] [Render thread/INFO]: Loaded 9 curio entities
+[21:41:34] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[21:41:34] [Server thread/INFO]: Generating keypair
+[21:41:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:41:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:41:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:41:35] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[21:41:35] [Server thread/INFO]: Server-side Vein Mining successfully started
+[21:41:35] [Server thread/INFO]: Changing simulation distance to 8, from 0
+[21:41:35] [Render thread/INFO]: Time elapsed: 586 ms
+[21:41:36] [Netty Local Client IO #1/INFO]: Connected to a modded server.
+[21:41:36] [Server thread/INFO]: Pawcio_[local:E:8d2fc663] logged in with entity id 745 at (2031.6919167564668, 122.15956851278824, -1999.4777960100078)
+[21:41:36] [Server thread/INFO]: Pawcio_ joined the game
+[21:41:36] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[21:41:36] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[21:41:36] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[21:41:36] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[21:41:36] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[21:41:36] [Render thread/INFO]: Starting JEI...
+[21:41:36] [Render thread/INFO]: Registering item subtypes...
+[21:41:36] [Render thread/INFO]: Registering item subtypes took 265.6 ?s
+[21:41:36] [Render thread/INFO]: Registering fluid subtypes...
+[21:41:36] [Render thread/INFO]: Registering fluid subtypes took 183.7 ?s
+[21:41:36] [Render thread/INFO]: Registering ingredients...
+[21:41:36] [Render thread/INFO]: Registering ingredients: jei:minecraft took 16.73 milliseconds
+[21:41:36] [Render thread/INFO]: Registering ingredients took 17.11 ms
+[21:41:36] [Render thread/INFO]: Registering categories...
+[21:41:36] [Render thread/INFO]: Registering categories took 590.1 ?s
+[21:41:36] [Render thread/INFO]: Registering vanilla category extensions...
+[21:41:36] [Render thread/INFO]: Registering vanilla category extensions took 195.8 ?s
+[21:41:36] [Render thread/INFO]: Registering recipe catalysts...
+[21:41:36] [Render thread/INFO]: Registering recipe catalysts took 315.5 ?s
+[21:41:36] [Render thread/INFO]: Registering advanced plugins...
+[21:41:36] [Render thread/INFO]: Registering advanced plugins took 172.0 ?s
+[21:41:36] [Render thread/INFO]: Building recipe registry...
+[21:41:36] [Render thread/INFO]: Building recipe registry took 327.6 ?s
+[21:41:36] [Render thread/INFO]: Registering recipes...
+[21:41:36] [Render thread/INFO]: Registering recipes: jei:minecraft took 194.1 milliseconds
+[21:41:36] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[21:41:36] [Render thread/INFO]: Registering recipes: uteamcore:jei took 12.22 milliseconds
+[21:41:36] [Render thread/INFO]: Registering recipes: twilightforest:jei_plugin took 26.19 milliseconds
+[21:41:36] [Render thread/INFO]: Registering recipes took 237.2 ms
+[21:41:36] [Render thread/INFO]: Registering recipes transfer handlers...
+[21:41:36] [Render thread/INFO]: Registering recipes transfer handlers took 250.7 ?s
+[21:41:36] [Render thread/INFO]: Building runtime...
+[21:41:36] [Render thread/INFO]: Registering gui handlers...
+[21:41:36] [Render thread/INFO]: Registering gui handlers took 210.4 ?s
+[21:41:36] [Render thread/INFO]: Registering Runtime...
+[21:41:36] [Render thread/INFO]: Starting JEI GUI
+[21:41:36] [Render thread/INFO]: Building ingredient list...
+[21:41:36] [Render thread/INFO]: Building ingredient list took 817.3 ?s
+[21:41:36] [Render thread/INFO]: Building ingredient filter...
+[21:41:36] [Render thread/INFO]: Adding 2506 ingredients
+[21:41:36] [Render thread/INFO]: Added 2506 ingredients
+[21:41:36] [Render thread/INFO]: Building ingredient filter took 212.3 ms
+[21:41:36] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 244.1 milliseconds
+[21:41:36] [Render thread/INFO]: Registering Runtime took 244.5 ms
+[21:41:36] [Render thread/INFO]: Building runtime took 245.1 ms
+[21:41:36] [Render thread/INFO]: Sending Runtime...
+[21:41:36] [Render thread/INFO]: Sending Runtime took 211.6 ?s
+[21:41:36] [Render thread/INFO]: Starting JEI took 504.6 ms
+[21:41:36] [Render thread/INFO]: Loaded 645 advancements
+[21:41:37] [Render thread/WARN]: Time from main menu to in-game was 2.191664 seconds
+[21:41:37] [Render thread/WARN]: Total time to load game and open world was 26.091663 seconds
+[21:41:50] [Server thread/INFO]: Saving and pausing game...
+[21:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:overworld
+[21:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_nether
+[21:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/aether:the_aether
+[21:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_end
+[21:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/twilightforest:twilight_forest
+[21:44:16] [Server thread/INFO]: Saving and pausing game...
+[21:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:overworld
+[21:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_nether
+[21:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/aether:the_aether
+[21:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_end
+[21:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/twilightforest:twilight_forest
+[21:44:16] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[21:44:16] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[21:44:16] [Render thread/INFO]: Stopping JEI
+[21:44:16] [Render thread/INFO]: Sending Runtime Unavailable...
+[21:44:16] [Render thread/INFO]: Stopping JEI GUI
+[21:44:16] [Render thread/INFO]: Sending Runtime Unavailable took 2.710 ms
+[21:44:16] [Server thread/INFO]: Pawcio_ lost connection: Disconnected
+[21:44:16] [Server thread/INFO]: Pawcio_ left the game
+[21:44:16] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:44:16] [Server thread/INFO]: Stopping server
+[21:44:16] [Server thread/INFO]: Saving players
+[21:44:16] [Server thread/INFO]: Saving worlds
+[21:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:overworld
+[21:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_nether
+[21:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/aether:the_aether
+[21:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_end
+[21:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/twilightforest:twilight_forest
+[21:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (Surivaro): All chunks are saved
+[21:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[21:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21:44:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:44:18] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[21:44:19] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[21:44:19] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[21:44:19] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[21:44:19] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[21:44:19] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[21:44:19] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[21:44:19] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[21:44:19] [Render thread/INFO]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[21:44:19] [Render thread/INFO]: Loaded 20 recipes
+[21:44:19] [Render thread/INFO]: Loaded 1936 advancements
+[21:44:19] [Render thread/INFO]: Loaded 9 Stalactite configs!
+[21:44:19] [Render thread/INFO]: Loaded 16 curio slots
+[21:44:19] [Render thread/INFO]: Loaded 9 curio entities
+[21:44:19] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[21:44:19] [Server thread/INFO]: Generating keypair
+[21:44:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:44:19] [Render thread/INFO]: Preparing spawn area: 0%
+[21:44:19] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[21:44:19] [Server thread/INFO]: Server-side Vein Mining successfully started
+[21:44:19] [Server thread/INFO]: Changing simulation distance to 8, from 0
+[21:44:19] [Render thread/INFO]: Time elapsed: 500 ms
+[21:44:20] [Netty Local Client IO #2/INFO]: Connected to a modded server.
+[21:44:20] [Server thread/INFO]: Pawcio_[local:E:a5c7204b] logged in with entity id 1433 at (2040.4448252513278, 119.0, -1987.4341010894982)
+[21:44:20] [Server thread/INFO]: Pawcio_ joined the game
+[21:44:20] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[21:44:20] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[21:44:20] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[21:44:20] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[21:44:20] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[21:44:20] [Render thread/INFO]: Starting JEI...
+[21:44:20] [Render thread/INFO]: Registering item subtypes...
+[21:44:20] [Render thread/INFO]: Registering item subtypes took 270.1 ?s
+[21:44:20] [Render thread/INFO]: Registering fluid subtypes...
+[21:44:20] [Render thread/INFO]: Registering fluid subtypes took 190.8 ?s
+[21:44:20] [Render thread/INFO]: Registering ingredients...
+[21:44:20] [Render thread/INFO]: Registering ingredients: jei:minecraft took 12.80 milliseconds
+[21:44:20] [Render thread/INFO]: Registering ingredients took 13.32 ms
+[21:44:20] [Render thread/INFO]: Registering categories...
+[21:44:20] [Render thread/INFO]: Registering categories took 610.1 ?s
+[21:44:20] [Render thread/INFO]: Registering vanilla category extensions...
+[21:44:20] [Render thread/INFO]: Registering vanilla category extensions took 186.6 ?s
+[21:44:20] [Render thread/INFO]: Registering recipe catalysts...
+[21:44:20] [Render thread/INFO]: Registering recipe catalysts took 263.6 ?s
+[21:44:20] [Render thread/INFO]: Registering advanced plugins...
+[21:44:20] [Render thread/INFO]: Registering advanced plugins took 186.5 ?s
+[21:44:20] [Render thread/INFO]: Building recipe registry...
+[21:44:20] [Render thread/INFO]: Building recipe registry took 255.4 ?s
+[21:44:20] [Render thread/INFO]: Registering recipes...
+[21:44:20] [Render thread/INFO]: Registering recipes: jei:minecraft took 141.8 milliseconds
+[21:44:20] [Render thread/INFO]: Ingredients are being removed at runtime: 1 net.minecraft.world.item.ItemStack
+[21:44:20] [Render thread/INFO]: Registering recipes: twilightforest:jei_plugin took 24.88 milliseconds
+[21:44:20] [Render thread/INFO]: Registering recipes took 181.6 ms
+[21:44:20] [Render thread/INFO]: Registering recipes transfer handlers...
+[21:44:20] [Render thread/INFO]: Registering recipes transfer handlers took 267.9 ?s
+[21:44:20] [Render thread/INFO]: Building runtime...
+[21:44:20] [Render thread/INFO]: Registering gui handlers...
+[21:44:20] [Render thread/INFO]: Registering gui handlers took 227.0 ?s
+[21:44:20] [Render thread/INFO]: Registering Runtime...
+[21:44:20] [Render thread/INFO]: Starting JEI GUI
+[21:44:20] [Render thread/INFO]: Building ingredient list...
+[21:44:20] [Render thread/INFO]: Building ingredient list took 957.0 ?s
+[21:44:20] [Render thread/INFO]: Building ingredient filter...
+[21:44:20] [Render thread/INFO]: Adding 2506 ingredients
+[21:44:21] [Render thread/INFO]: Added 2506 ingredients
+[21:44:21] [Render thread/INFO]: Building ingredient filter took 169.7 ms
+[21:44:21] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 191.9 milliseconds
+[21:44:21] [Render thread/INFO]: Registering Runtime took 192.3 ms
+[21:44:21] [Render thread/INFO]: Building runtime took 192.8 ms
+[21:44:21] [Render thread/INFO]: Sending Runtime...
+[21:44:21] [Render thread/INFO]: Sending Runtime took 243.9 ?s
+[21:44:21] [Render thread/INFO]: Starting JEI took 393.1 ms
+[21:44:21] [Render thread/INFO]: Loaded 645 advancements
+[21:44:21] [Render thread/WARN]: Time from main menu to in-game was 1.9451438 seconds
+[21:44:21] [Render thread/WARN]: Total time to load game and open world was 25.845144 seconds
+[21:44:52] [Server thread/INFO]: Saving and pausing game...
+[21:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:overworld
+[21:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_nether
+[21:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/aether:the_aether
+[21:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_end
+[21:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/twilightforest:twilight_forest
+[21:44:52] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[21:44:52] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[21:44:52] [Render thread/INFO]: Stopping JEI
+[21:44:52] [Render thread/INFO]: Sending Runtime Unavailable...
+[21:44:52] [Render thread/INFO]: Stopping JEI GUI
+[21:44:52] [Render thread/INFO]: Sending Runtime Unavailable took 1.549 ms
+[21:44:52] [Server thread/INFO]: Pawcio_ lost connection: Disconnected
+[21:44:52] [Server thread/INFO]: Pawcio_ left the game
+[21:44:52] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:44:52] [Server thread/INFO]: Stopping server
+[21:44:52] [Server thread/INFO]: Saving players
+[21:44:52] [Server thread/INFO]: Saving worlds
+[21:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:overworld
+[21:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_nether
+[21:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/aether:the_aether
+[21:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/minecraft:the_end
+[21:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Surivaro]'/twilightforest:twilight_forest
+[21:44:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Surivaro): All chunks are saved
+[21:44:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:44:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[21:44:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:44:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21:44:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
